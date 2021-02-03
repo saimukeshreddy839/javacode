@@ -1,4 +1,4 @@
-<h1> ############### WELCOME  TO  DEVOPS CLASS FROM AWS BACKGROUND  ############### </h1>
+<h1> ############### WELCOME  TO  DEVOPS CLASS  AWS BACKGROUND  ############### </h1>
 
 Available courses..
 
